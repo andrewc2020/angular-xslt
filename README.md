@@ -27,3 +27,7 @@ See an [example usage][project-page] page published on Github Pages
 [bower-shield]: https://img.shields.io/bower/v/angular-xslt.svg
 [npm-shield]: https://img.shields.io/npm/v/angular-xslt.svg
 [david-dev-shield]: https://david-dm.org/krtnio/angular-xslt/dev-status.svg
+
+## Thanks
+With thanks to David. 
+andrewc2020
